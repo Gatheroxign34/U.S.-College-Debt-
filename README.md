@@ -21,7 +21,7 @@
         <p> Recommendation: In policy that addressed U.S. student debt consider region, ethnicity, and college size to determine how graduates actually experience the U.S. college debt crisis. 
 </p>
         <p> 
-            
+<a href = "https://colab.research.google.com/drive/1WMaNDxYk6AtJQo1Sv--t1ftZX9zppt_n?usp=sharing"> Python Notebook</a>    
 </body>
-            [Python Workbook Here](https://colab.research.google.com/drive/1WMaNDxYk6AtJQo1Sv--t1ftZX9zppt_n?usp=sharing)
+            
 </html> 
