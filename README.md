@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<img width="701" alt="U S  College Debt Title" src="https://user-images.githubusercontent.com/94628744/210278896-11fcd3d5-2368-42cf-b5e4-e514e72e9502.png">
+<img width="1000" alt="U S  College Debt Title" src="https://user-images.githubusercontent.com/94628744/210278896-11fcd3d5-2368-42cf-b5e4-e514e72e9502.png">
 <body>
     <h1> Do factors such as region, ethnicity and college size affect average student Debt in the U.S.?  </h1>
         <p> This project explores this question using U.S Department of Education Data data with Python, Seaborn and Scipy Stats </p>
