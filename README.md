@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
     <h1> Do factors such as region, ethnicity and college size affect average student Debt in the U.S.?  </h1>
         <p> This project explores this question using U.S Department of Education Data data with Python, Seaborn and Scipy Stats </p>
         <p> Inquiry: Investigated patterns in average college debt by U.S. region, college size, and ethnicity to help stakeholders understand the           inner workings of the U.S. college debt crisis.</p> 
