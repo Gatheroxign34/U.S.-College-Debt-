@@ -18,7 +18,7 @@
         and revealed that ethnicity affects average college debt for small colleges (total students < 2999) but has little effect for large 
         universities (total students > = 10,000). Also, learned that overall median income is lower for graduates in the southeast although average         college debt is equal nationwide; and revealed that ethnicity affects average college debt for small colleges (total students < 2999) but   
         has little effect for large universities (total students > = 10,000). </p>
-        <p> Recommendation: In policy that addressed U.S. student debt consider region, ethnicity, and college size to determine how graduates actually experience the U.S. college debt crisis. 
+        <p> Recommendation: In policy that addresses U.S. student debt consider region, ethnicity, and college size to determine how graduates actually experience the U.S. college debt crisis. 
 </p>
         <p> 
 <a href = "https://colab.research.google.com/drive/1WMaNDxYk6AtJQo1Sv--t1ftZX9zppt_n?usp=sharing"> Python Notebook</a>    
